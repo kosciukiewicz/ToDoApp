@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_new_sub_list"
+        app:showAsAction="never"
+        android:title="@string/add_new_sub_list" />
+    <item
+        android:id="@+id/remove_sub_list"
+        app:showAsAction="never"
+        android:title="@string/remove_sub_list" />
+    <item
+        android:id="@+id/send_task_list"
+        app:showAsAction="never"
+        android:title="@string/send_task_list" />
+    <item
+        android:id="@+id/remove_task_list"
+        app:showAsAction="never"
+        android:title="@string/remove_task_list" />
+</menu>

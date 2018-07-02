@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/submit_add_new_list"
+        android:icon="@drawable/ic_check_white_24dp"
+        app:showAsAction="always"
+        android:title="@string/add_new_list" />
+</menu>

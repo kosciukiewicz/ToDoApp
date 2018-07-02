@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_list">Nowa lista</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_list">Dodaj nową listę</string>
+    <string name="new_list_name">Nazwa</string>
+    <string name="author_name">Witold Kościukiewicz</string>
+    <string name="author_index">227964</string>
+    <string name="pick_color">Wybierz kolor</string>
+    <string name="value_cannot_be_empty">Wartość nie może być pusta</string>
+    <string name="add_new_sub_list">Nowa podlista</string>
+    <string name="send_task_list">Wyślij mailem</string>
+    <string name="remove_task_list">Usuń listę zadań</string>
+    <string name="remove_sub_list">Usuń aktualną podlistę</string>
+    <string name="date">Data i godzina</string>
+    <string name="note">Notatka</string>
+    <string name="Priority">Ważne</string>
+    <string name="wrong_date_time_format">Podaj datę i czas w formacie (rrrr-MM-dd HH-mm))</string>
+    <string name="no_date">Brak terminu</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
